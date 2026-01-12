@@ -112,7 +112,7 @@ export default function Home() {
                 placeholder="   Search songs, artists, albums...?"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-77 h-8 pl-40 pr-10 bg-zinc-800 text-white text-sm rounded-full border-2 border-transparent focus:border-spotify-green focus:outline-none placeholder:text-zinc-500"
+                className="w-72 h-8 pl-40 pr-10 bg-zinc-800 text-white text-sm rounded-full border-2 border-transparent focus:border-spotify-green focus:outline-none placeholder:text-zinc-500"
               />
               {searchQuery && (
                 <button
