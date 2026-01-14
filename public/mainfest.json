@@ -1,6 +1,6 @@
 {
     "name": "Toshan Music",
-    "short_name": "Vibes",
+    "short_name": "Toshan Music",
     "description": "Your personal music streaming app",
     "start_url": "/",
     "display": "standalone",
